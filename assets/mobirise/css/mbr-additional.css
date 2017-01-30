@@ -480,8 +480,8 @@ h6,
   color: #bcbcbc;
 }
 #features7-l .iconbox {
-  background-color: #c0a375;
-  border-color: #c0a375;
+  background-color: #efefef;
+  border-color: #efefef;
 }
 #features7-l P {
   text-align: left;
@@ -807,7 +807,13 @@ h6,
   color: #c0a375!important;
 }
 #form1-i .form-control-label {
-  color: #232323;
+  color: #ffffff;
+}
+#form1-i .mbr-section-title {
+  color: #ffffff;
+}
+#form1-i SMALL {
+  color: #ffffff;
 }
 #contacts1-a P {
   color: #000000;
