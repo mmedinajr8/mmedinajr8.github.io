@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "NewSite-01-21_1603",
-    "currentPage": "index.html",
+    "currentPage": "photoshop.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -481,43 +481,45 @@
           "_name": "gallery4",
           "_params": {
             "paddingTop": 0,
-            "paddingBottom": 0,
+            "paddingBottom": "1",
             "images": [
               {
                 "tags": "Creative",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/coworkers-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/coworkers.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/image-8-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/image-8-2000x1333.jpg",
                 "caption": "Type caption here",
-                "active": false
+                "active": true
               },
               {
                 "tags": "Animated",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/desktop-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/desktop.jpg",
-                "caption": "Type caption here"
+                "thumb": "@PROJECT_PATH@/assets/images/image-7-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/image-7-2000x1333.jpg",
+                "caption": "Type caption here",
+                "active": false
               },
               {
                 "tags": "Awesome",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/room-laptop-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
-                "caption": "Type caption here"
+                "thumb": "@PROJECT_PATH@/assets/images/image-6-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/image-6-2000x1333.jpg",
+                "caption": "Type caption here",
+                "active": false
               },
               {
                 "tags": "Beautiful",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/table-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/table.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/image-5-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/image-5-2000x1333.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -526,8 +528,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/coworkers-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/coworkers.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/image-4-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/image-4-2000x1333.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -536,8 +538,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/coworkers-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/coworkers.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/image-3-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/image-3-2000x1333.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -549,7 +551,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/image-2-2000x1333-800x533.jpg",
                 "image": "@PROJECT_PATH@/assets/images/image-2-2000x1333.jpg",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Creative",
