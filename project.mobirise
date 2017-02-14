@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.11",
-    "uniqCompNum": 42,
+    "uniqCompNum": 44,
     "versionPublish": "3.11.1"
   },
   "pages": {
@@ -427,7 +427,7 @@
               "size": 0
             }
           },
-          "text1": "Footer with solid color background and a contact form, Easily add subscribe and contact forms without any server-side integration.",
+          "text1": "",
           "media1": {
             "iconFont": {
               "active": true,
@@ -742,7 +742,7 @@
               "size": 0
             }
           },
-          "text1": "Footer with solid color background and a contact form, Easily add subscribe and contact forms without any server-side integration.",
+          "text1": "",
           "media1": {
             "iconFont": {
               "active": true,
@@ -1050,7 +1050,7 @@
               "size": 0
             }
           },
-          "text1": "Footer with solid color background and a contact form, Easily add subscribe and contact forms without any server-side integration.",
+          "text1": "",
           "media1": {
             "iconFont": {
               "active": true,
@@ -1262,7 +1262,7 @@
               "size": 0
             }
           },
-          "text1": "Footer with solid color background and a contact form, Easily add subscribe and contact forms without any server-side integration.",
+          "text1": "",
           "media1": {
             "iconFont": {
               "active": true,
@@ -1501,7 +1501,7 @@
               "size": 0
             }
           },
-          "text1": "Footer with solid color background and a contact form, Easily add subscribe and contact forms without any server-side integration.",
+          "text1": "",
           "media1": {
             "iconFont": {
               "active": true,
@@ -1902,7 +1902,7 @@
               "size": 0
             }
           },
-          "text1": "Footer with solid color background and a contact form, Easily add subscribe and contact forms without any server-side integration.",
+          "text1": "",
           "media1": {
             "iconFont": {
               "active": true,
