@@ -110,8 +110,8 @@ h6,
   border-color: #a07e49 !important;
 }
 .btn-secondary {
-  background-color: #bfcecb;
-  border-color: #bfcecb;
+  background-color: #ffffff;
+  border-color: #ffffff;
   color: #ffffff;
 }
 .btn-secondary:hover,
@@ -120,14 +120,14 @@ h6,
 .btn-secondary:active,
 .btn-secondary.active {
   color: #ffffff;
-  background-color: #94ada8;
-  border-color: #94ada8;
+  background-color: #d4d4d4;
+  border-color: #d4d4d4;
 }
 .btn-secondary.disabled,
 .btn-secondary:disabled {
   color: #ffffff !important;
-  background-color: #94ada8 !important;
-  border-color: #94ada8 !important;
+  background-color: #d4d4d4 !important;
+  border-color: #d4d4d4 !important;
 }
 .btn-info {
   background-color: #7e9b9f;
@@ -231,8 +231,8 @@ h6,
 }
 .btn-secondary-outline {
   background: none;
-  border-color: #85a29c;
-  color: #85a29c;
+  border-color: #ffffff;
+  color: #ffffff;
 }
 .btn-secondary-outline:hover,
 .btn-secondary-outline:focus,
@@ -240,14 +240,14 @@ h6,
 .btn-secondary-outline:active,
 .btn-secondary-outline.active {
   color: #ffffff;
-  background-color: #bfcecb;
-  border-color: #bfcecb;
+  background-color: #ffffff;
+  border-color: #ffffff;
 }
 .btn-secondary-outline.disabled,
 .btn-secondary-outline:disabled {
   color: #ffffff !important;
-  background-color: #bfcecb !important;
-  border-color: #bfcecb !important;
+  background-color: #ffffff !important;
+  border-color: #ffffff !important;
 }
 .btn-info-outline {
   background: none;
@@ -408,9 +408,6 @@ h6,
 .mbr-gallery-filter li:hover {
   color: #c0a375;
 }
-.scrollToTop_wraper {
-  opacity: 0 !important;
-}
 #ext_menu-0 .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -486,8 +483,24 @@ h6,
 #features7-l P {
   text-align: left;
 }
-#contacts1-n P {
-  color: #000000;
+#contacts5-14 p,
+#contacts5-14 .list-group-text,
+#contacts5-14 .form-control-label {
+  color: #000;
+}
+#contacts5-14 strong,
+#contacts5-14 h4 {
+  color: #7e9b9f;
+}
+#contacts5-14 form .form-control {
+  border-color: rgba(0, 0, 0, 0.2);
+  color: #565656;
+}
+#contacts5-14 .mbr-footer-content li {
+  border-bottom: 1px dotted rgba(0, 0, 0, 0.1);
+}
+#contacts5-14 .mbr-company .list-group-text::after {
+  border-bottom: 1px dotted rgba(0, 0, 0, 0.2);
 }
 #ext_menu-4 .hide-buttons .nav-btn {
   display: none !important;
