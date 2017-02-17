@@ -259,6 +259,9 @@
             },
             ".mbr-company .list-group-text::after": {
               "border-bottom": "1px dotted rgba(0, 0, 0, 0.2)"
+            },
+            "LI": {
+              "color": "#c0a375"
             }
           },
           "_tags": [
@@ -327,7 +330,7 @@
           },
           "text4": "michaelmedina@miamiartsstudio.com",
           "title1": "Categories",
-          "text5": "<li><a href=\"photoshop.html\">Adobe Photoshop</a><a class=\"text-primary\" href=\"#\"></a></li><li><a href=\"illustrator.html\">Adobe Illustrator</a><a class=\"text-primary\" href=\"#\"></a></li><li><a href=\"premiere.html\">Adobe Premiere</a><a href=\"certifications.html\"></a><a class=\"text-primary\" href=\"#\"></a></li><li><a href=\"index.html#msg-box6-j\">Biography</a><a class=\"text-primary\" href=\"#\"></a></li><li><a href=\"certifications.html\">Certification</a><a class=\"text-primary\" href=\"#\"></a></li>",
+          "text5": "<li><a href=\"photoshop.html\">Adobe Photoshop</a><a class=\"text-primary\" href=\"#\"></a></li><li><a href=\"illustrator.html\">Adobe Illustrator</a><a class=\"text-primary\" href=\"#\"></a></li><li><a href=\"premiere.html\">Adobe Premiere</a><a href=\"certifications.html\"></a><a class=\"text-primary\" href=\"#\"></a></li><li><a href=\"index.html#msg-box6-j\">Biography</a></li><li><a href=\"index.html\">Landing Page</a></li><br>",
           "text6": "<strong>Contacts</strong><br>Email: michaelmedina@miamiartsstudio.com<br>Phone: 305-934-0334<br><br><br><br><strong>Address</strong><br>10990 SW 50 TER Miami, FL 33165",
           "form": {
             "title": "MESSAGE",
@@ -620,6 +623,9 @@
             },
             ".mbr-company .list-group-text::after": {
               "border-bottom": "1px dotted rgba(0, 0, 0, 0.2)"
+            },
+            "LI": {
+              "color": "#c0a375"
             }
           },
           "_tags": [
@@ -688,7 +694,7 @@
           },
           "text4": "michaelmedina@miamiartsstudio.com",
           "title1": "Categories",
-          "text5": "<li><a href=\"photoshop.html\">Adobe Photoshop</a><a class=\"text-primary\" href=\"#\"></a></li><li><a href=\"illustrator.html\">Adobe Illustrator</a><a class=\"text-primary\" href=\"#\"></a></li><li><a href=\"premiere.html\">Adobe Premiere</a><a href=\"certifications.html\"></a><a class=\"text-primary\" href=\"#\"></a></li><li><a href=\"index.html#msg-box6-j\">Biography</a><a class=\"text-primary\" href=\"#\"></a></li><li><a href=\"certifications.html\">Certification</a><a class=\"text-primary\" href=\"#\"></a></li>",
+          "text5": "<li><a href=\"photoshop.html\">Adobe Photoshop</a><a class=\"text-primary\" href=\"#\"></a></li><li><a href=\"illustrator.html\">Adobe Illustrator</a><a class=\"text-primary\" href=\"#\"></a></li><li><a href=\"premiere.html\">Adobe Premiere</a><a href=\"certifications.html\"></a><a class=\"text-primary\" href=\"#\"></a></li><li><a href=\"index.html#msg-box6-j\">Biography</a></li><li><a href=\"index.html\">Landing Page</a></li><br>",
           "text6": "<strong>Contacts</strong><br>Email: michaelmedina@miamiartsstudio.com<br>Phone: 305-934-0334<br><br><br><br><strong>Address</strong><br>10990 SW 50 TER Miami, FL 33165",
           "form": {
             "title": "MESSAGE",
@@ -858,6 +864,9 @@
             },
             ".mbr-company .list-group-text::after": {
               "border-bottom": "1px dotted rgba(0, 0, 0, 0.2)"
+            },
+            "LI": {
+              "color": "#c0a375"
             }
           },
           "_tags": [
@@ -926,7 +935,7 @@
           },
           "text4": "michaelmedina@miamiartsstudio.com",
           "title1": "Categories",
-          "text5": "<li><a href=\"photoshop.html\">Adobe Photoshop</a><a class=\"text-primary\" href=\"#\"></a></li><li><a href=\"illustrator.html\">Adobe Illustrator</a><a class=\"text-primary\" href=\"#\"></a></li><li><a href=\"premiere.html\">Adobe Premiere</a><a href=\"certifications.html\"></a><a class=\"text-primary\" href=\"#\"></a></li><li><a href=\"index.html#msg-box6-j\">Biography</a><a class=\"text-primary\" href=\"#\"></a></li><li><a href=\"certifications.html\">Certification</a><a class=\"text-primary\" href=\"#\"></a></li>",
+          "text5": "<li><a href=\"photoshop.html\">Adobe Photoshop</a><a class=\"text-primary\" href=\"#\"></a></li><li><a href=\"illustrator.html\">Adobe Illustrator</a><a class=\"text-primary\" href=\"#\"></a></li><li><a href=\"premiere.html\">Adobe Premiere</a><a href=\"certifications.html\"></a><a class=\"text-primary\" href=\"#\"></a></li><li><a href=\"index.html#msg-box6-j\">Biography</a></li><li><a href=\"index.html\">Landing Page</a></li><br>",
           "text6": "<strong>Contacts</strong><br>Email: michaelmedina@miamiartsstudio.com<br>Phone: 305-934-0334<br><br><br><br><strong>Address</strong><br>10990 SW 50 TER Miami, FL 33165",
           "form": {
             "title": "MESSAGE",
@@ -1123,6 +1132,9 @@
             },
             ".mbr-company .list-group-text::after": {
               "border-bottom": "1px dotted rgba(0, 0, 0, 0.2)"
+            },
+            "LI": {
+              "color": "#c0a375"
             }
           },
           "_tags": [
@@ -1191,7 +1203,7 @@
           },
           "text4": "michaelmedina@miamiartsstudio.com",
           "title1": "Categories",
-          "text5": "<li><a href=\"photoshop.html\">Adobe Photoshop</a><a class=\"text-primary\" href=\"#\"></a></li><li><a href=\"illustrator.html\">Adobe Illustrator</a><a class=\"text-primary\" href=\"#\"></a></li><li><a href=\"premiere.html\">Adobe Premiere</a><a href=\"certifications.html\"></a><a class=\"text-primary\" href=\"#\"></a></li><li><a href=\"index.html#msg-box6-j\">Biography</a><a class=\"text-primary\" href=\"#\"></a></li><li><a href=\"certifications.html\">Certification</a><a class=\"text-primary\" href=\"#\"></a></li>",
+          "text5": "<li><a href=\"photoshop.html\">Adobe Photoshop</a><a class=\"text-primary\" href=\"#\"></a></li><li><a href=\"illustrator.html\">Adobe Illustrator</a><a class=\"text-primary\" href=\"#\"></a></li><li><a href=\"premiere.html\">Adobe Premiere</a><a href=\"certifications.html\"></a><a class=\"text-primary\" href=\"#\"></a></li><li><a href=\"index.html#msg-box6-j\">Biography</a></li><li><a href=\"index.html\">Landing Page</a></li><br>",
           "text6": "<strong>Contacts</strong><br>Email: michaelmedina@miamiartsstudio.com<br>Phone: 305-934-0334<br><br><br><br><strong>Address</strong><br>10990 SW 50 TER Miami, FL 33165",
           "form": {
             "title": "MESSAGE",
@@ -1550,6 +1562,9 @@
             },
             ".mbr-company .list-group-text::after": {
               "border-bottom": "1px dotted rgba(0, 0, 0, 0.2)"
+            },
+            "LI": {
+              "color": "#c0a375"
             }
           },
           "_tags": [
@@ -1618,7 +1633,7 @@
           },
           "text4": "michaelmedina@miamiartsstudio.com",
           "title1": "Categories",
-          "text5": "<li><a href=\"photoshop.html\">Adobe Photoshop</a><a class=\"text-primary\" href=\"#\"></a></li><li><a href=\"illustrator.html\">Adobe Illustrator</a><a class=\"text-primary\" href=\"#\"></a></li><li><a href=\"premiere.html\">Adobe Premiere</a><a href=\"certifications.html\"></a><a class=\"text-primary\" href=\"#\"></a></li><li><a href=\"index.html#msg-box6-j\">Biography</a><a class=\"text-primary\" href=\"#\"></a></li><li><a href=\"certifications.html\">Certification</a><a class=\"text-primary\" href=\"#\"></a></li>",
+          "text5": "<li><a href=\"photoshop.html\">Adobe Photoshop</a><a class=\"text-primary\" href=\"#\"></a></li><li><a href=\"illustrator.html\">Adobe Illustrator</a><a class=\"text-primary\" href=\"#\"></a></li><li><a href=\"premiere.html\">Adobe Premiere</a><a href=\"certifications.html\"></a><a class=\"text-primary\" href=\"#\"></a></li><li><a href=\"index.html#msg-box6-j\">Biography</a></li><li><a href=\"index.html\">Landing Page</a></li><br>",
           "text6": "<strong>Contacts</strong><br>Email: michaelmedina@miamiartsstudio.com<br>Phone: 305-934-0334<br><br><br><br><strong>Address</strong><br>10990 SW 50 TER Miami, FL 33165",
           "form": {
             "title": "MESSAGE",
@@ -2007,6 +2022,9 @@
             },
             ".mbr-company .list-group-text::after": {
               "border-bottom": "1px dotted rgba(0, 0, 0, 0.2)"
+            },
+            "LI": {
+              "color": "#c0a375"
             }
           },
           "_tags": [
@@ -2078,7 +2096,7 @@
           },
           "text4": "michaelmedina@miamiartsstudio.com",
           "title1": "Categories",
-          "text5": "<li><a href=\"photoshop.html\">Adobe Photoshop</a><a class=\"text-primary\" href=\"#\"></a></li><li><a href=\"illustrator.html\">Adobe Illustrator</a><a class=\"text-primary\" href=\"#\"></a></li><li><a href=\"premiere.html\">Adobe Premiere</a><a href=\"certifications.html\"></a><a class=\"text-primary\" href=\"#\"></a></li><li><a href=\"index.html#msg-box6-j\">Biography</a><a class=\"text-primary\" href=\"#\"></a></li><li><a href=\"certifications.html\">Certification</a><a class=\"text-primary\" href=\"#\"></a></li>",
+          "text5": "<li><a href=\"photoshop.html\">Adobe Photoshop</a><a class=\"text-primary\" href=\"#\"></a></li><li><a href=\"illustrator.html\">Adobe Illustrator</a><a class=\"text-primary\" href=\"#\"></a></li><li><a href=\"premiere.html\">Adobe Premiere</a><a href=\"certifications.html\"></a><a class=\"text-primary\" href=\"#\"></a></li><li><a href=\"index.html#msg-box6-j\">Biography</a></li><li><a href=\"index.html\">Landing Page</a></li><br>",
           "text6": "<strong>Contacts</strong><br>Email: michaelmedina@miamiartsstudio.com<br>Phone: 305-934-0334<br><br><br><br><strong>Address</strong><br>10990 SW 50 TER Miami, FL 33165",
           "form": {
             "title": "MESSAGE",
@@ -2406,6 +2424,9 @@
             },
             ".mbr-company .list-group-text::after": {
               "border-bottom": "1px dotted rgba(0, 0, 0, 0.2)"
+            },
+            "LI": {
+              "color": "#c0a375"
             }
           },
           "_tags": [
@@ -2477,7 +2498,7 @@
           },
           "text4": "michaelmedina@miamiartsstudio.com",
           "title1": "Categories",
-          "text5": "<li><a href=\"photoshop.html\">Adobe Photoshop</a><a class=\"text-primary\" href=\"#\"></a></li><li><a href=\"illustrator.html\">Adobe Illustrator</a><a class=\"text-primary\" href=\"#\"></a></li><li><a href=\"premiere.html\">Adobe Premiere</a><a href=\"certifications.html\"></a><a class=\"text-primary\" href=\"#\"></a></li><li><a href=\"index.html#msg-box6-j\">Biography</a><a class=\"text-primary\" href=\"#\"></a></li><li><a href=\"certifications.html\">Certification</a><a class=\"text-primary\" href=\"#\"></a></li>",
+          "text5": "<li><a href=\"photoshop.html\">Adobe Photoshop</a><a class=\"text-primary\" href=\"#\"></a></li><li><a href=\"illustrator.html\">Adobe Illustrator</a><a class=\"text-primary\" href=\"#\"></a></li><li><a href=\"premiere.html\">Adobe Premiere</a><a href=\"certifications.html\"></a><a class=\"text-primary\" href=\"#\"></a></li><li><a href=\"index.html#msg-box6-j\">Biography</a></li><li><a href=\"index.html\">Landing Page</a></li><br>",
           "text6": "<strong>Contacts</strong><br>Email: michaelmedina@miamiartsstudio.com<br>Phone: 305-934-0334<br><br><br><br><strong>Address</strong><br>10990 SW 50 TER Miami, FL 33165",
           "form": {
             "title": "MESSAGE",
