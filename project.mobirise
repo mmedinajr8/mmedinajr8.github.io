@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "NewSite-01-21_1603",
-    "currentPage": "illustrator.html",
+    "currentPage": "photoshop.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -333,7 +333,7 @@
             "title": "MESSAGE",
             "action": "michaelmedina@miamiartsstudio.com",
             "alerts": {
-              "success": "Thanks for filling out form!"
+              "success": "Thanks for filling out form! I will respond shortly."
             },
             "fields": {
               "name": {
@@ -357,7 +357,7 @@
               }
             }
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-info\">Contact us</a>"
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-info\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Contact Me</a>"
         },
         {
           "_tags": [
@@ -376,7 +376,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#cccccc",
+            "bgColor": "#efefef",
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": 0.8,
@@ -718,7 +718,7 @@
               }
             }
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-info\">Contact us</a>"
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-info\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Contact Me</a>"
         },
         {
           "_tags": [
@@ -737,7 +737,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#cccccc",
+            "bgColor": "#efefef",
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": 0.8,
@@ -956,7 +956,7 @@
               }
             }
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-info\">Contact us</a>"
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-info\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Contact Me</a>"
         },
         {
           "_tags": [
@@ -975,7 +975,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#cccccc",
+            "bgColor": "#efefef",
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": 0.8,
@@ -1221,7 +1221,7 @@
               }
             }
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-info\">Contact us</a>"
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-info\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Contact Me</a>"
         },
         {
           "_tags": [
@@ -1240,7 +1240,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#cccccc",
+            "bgColor": "#efefef",
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": 0.8,
@@ -1648,7 +1648,7 @@
               }
             }
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-info\">Contact us</a>"
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-info\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Contact Me</a>"
         },
         {
           "_tags": [
@@ -1667,7 +1667,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#cccccc",
+            "bgColor": "#efefef",
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": 0.8,
@@ -1849,8 +1849,8 @@
               "color": "#bcbcbc"
             },
             ".iconbox": {
-              "background-color": "#efefef",
-              "border-color": "#efefef"
+              "background-color": "#ffffff",
+              "border-color": "#ffffff"
             },
             "P": {
               "text-align": "left"
@@ -1859,7 +1859,7 @@
           "_name": "features7",
           "_anchor": "features7-l",
           "_params": {
-            "iconsBgColor": "#efefef",
+            "iconsBgColor": "#ffffff",
             "paddingTop": "2",
             "paddingBottom": "2",
             "bgImageRadio": false,
@@ -2108,7 +2108,7 @@
               }
             }
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-info\">Contact us</a>"
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-info\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Contact Me</a>"
         },
         {
           "_tags": [
@@ -2127,7 +2127,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#cccccc",
+            "bgColor": "#efefef",
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": 0.8,
@@ -2319,7 +2319,7 @@
           "_params": {
             "paddingTop": 1,
             "paddingBottom": "1",
-            "bgColor": "#ffffff",
+            "bgColor": "#c1c1c1",
             "showMeta": true
           },
           "title": "Some of my Work",
@@ -2507,7 +2507,7 @@
               }
             }
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-info\">Contact us</a>"
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-info\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Contact Me</a>"
         },
         {
           "_tags": [
@@ -2521,7 +2521,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#cccccc",
+            "bgColor": "#efefef",
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": 0.8,
