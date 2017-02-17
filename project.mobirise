@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "NewSite-01-21_1603",
-    "currentPage": "index.html",
+    "currentPage": "illustrator.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -232,7 +232,7 @@
             "spacing": 1,
             "showText": false,
             "filter": false,
-            "bgColor": "fff",
+            "bgColor": "#efefef",
             "filterBgColor": false,
             "fullWidth": false,
             "showBullets": true
@@ -593,7 +593,7 @@
             "spacing": "1",
             "showText": false,
             "filter": false,
-            "bgColor": "fff",
+            "bgColor": "#efefef",
             "filterBgColor": false,
             "fullWidth": false,
             "showBullets": true
@@ -2319,7 +2319,7 @@
           "_params": {
             "paddingTop": 1,
             "paddingBottom": "1",
-            "bgColor": "#fff",
+            "bgColor": "#ffffff",
             "showMeta": true
           },
           "title": "Some of my Work",
@@ -2379,7 +2379,7 @@
             "spacing": "1",
             "showText": false,
             "filter": false,
-            "bgColor": "fff",
+            "bgColor": "#c1c1c1",
             "filterBgColor": false,
             "fullWidth": false,
             "showBullets": true
