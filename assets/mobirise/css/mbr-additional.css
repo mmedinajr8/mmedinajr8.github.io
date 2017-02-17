@@ -408,6 +408,10 @@ h6,
 .mbr-gallery-filter li:hover {
   color: #c0a375;
 }
+#header3-1f .mbr-section-title,
+#header3-1f .mbr-section-subtitle {
+  text-align: center;
+}
 #ext_menu-4 .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -487,6 +491,13 @@ h6,
 }
 #contacts5-14 .mbr-company .list-group-text::after {
   border-bottom: 1px dotted rgba(0, 0, 0, 0.2);
+}
+#footer1-1h P {
+  color: #000000;
+}
+#header3-1g .mbr-section-title,
+#header3-1g .mbr-section-subtitle {
+  text-align: center;
 }
 #ext_menu-7 .hide-buttons .nav-btn {
   display: none !important;
@@ -568,6 +579,9 @@ h6,
 #contacts5-14 .mbr-company .list-group-text::after {
   border-bottom: 1px dotted rgba(0, 0, 0, 0.2);
 }
+#footer1-1h P {
+  color: #000000;
+}
 #ext_menu-9 .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -586,11 +600,11 @@ h6,
   color: #000000;
 }
 #ext_menu-9 .link {
-  font-size: 0.75rem;
+  font-size: 0.8rem;
 }
 #ext_menu-9 .dropdown-item,
 #ext_menu-9 .nav-dropdown-sm .link {
-  font-size: 0.812rem;
+  font-size: 0.866rem;
 }
 #ext_menu-9 .link:hover,
 #ext_menu-9 .dropdown-item:hover,
@@ -648,6 +662,9 @@ h6,
 #contacts5-14 .mbr-company .list-group-text::after {
   border-bottom: 1px dotted rgba(0, 0, 0, 0.2);
 }
+#footer1-1h P {
+  color: #000000;
+}
 #contacts5-14 p,
 #contacts5-14 .list-group-text,
 #contacts5-14 .form-control-label {
@@ -667,6 +684,9 @@ h6,
 #contacts5-14 .mbr-company .list-group-text::after {
   border-bottom: 1px dotted rgba(0, 0, 0, 0.2);
 }
+#footer1-1h P {
+  color: #000000;
+}
 #ext_menu-e .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -685,11 +705,11 @@ h6,
   color: #000000;
 }
 #ext_menu-e .link {
-  font-size: 0.75rem;
+  font-size: 0.8rem;
 }
 #ext_menu-e .dropdown-item,
 #ext_menu-e .nav-dropdown-sm .link {
-  font-size: 0.812rem;
+  font-size: 0.866rem;
 }
 #ext_menu-e .link:hover,
 #ext_menu-e .dropdown-item:hover,
@@ -746,11 +766,11 @@ h6,
   color: #000000;
 }
 #ext_menu-o .link {
-  font-size: 0.75rem;
+  font-size: 0.8rem;
 }
 #ext_menu-o .dropdown-item,
 #ext_menu-o .nav-dropdown-sm .link {
-  font-size: 0.812rem;
+  font-size: 0.866rem;
 }
 #ext_menu-o .link:hover,
 #ext_menu-o .dropdown-item:hover,
@@ -807,6 +827,9 @@ h6,
 }
 #contacts5-14 .mbr-company .list-group-text::after {
   border-bottom: 1px dotted rgba(0, 0, 0, 0.2);
+}
+#footer1-1h P {
+  color: #000000;
 }
 #ext_menu-0 .hide-buttons .nav-btn {
   display: none !important;
@@ -902,6 +925,9 @@ h6,
 #contacts5-14 .mbr-company .list-group-text::after {
   border-bottom: 1px dotted rgba(0, 0, 0, 0.2);
 }
+#footer1-1h P {
+  color: #000000;
+}
 #ext_menu-18 .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -963,10 +989,10 @@ h6,
 #ext_menu-18 .dropdown-item[aria-expanded="true"] {
   color: #c0a375!important;
 }
-#header1-1a .mbr-section-title {
+#header1-1e .mbr-section-title {
   color: #ffffff;
 }
-#header1-1a .mbr-section-lead {
+#header1-1e .mbr-section-lead {
   color: #ffffff;
 }
 #contacts5-19 p,
@@ -987,4 +1013,7 @@ h6,
 }
 #contacts5-19 .mbr-company .list-group-text::after {
   border-bottom: 1px dotted rgba(0, 0, 0, 0.2);
+}
+#footer1-1h P {
+  color: #000000;
 }
