@@ -1022,6 +1022,10 @@ h6,
 #header3-1j .mbr-section-subtitle {
   text-align: center;
 }
+#social-buttons4-1l .mbr-section-title,
+#social-buttons4-1l .btn-social {
+  color: #fff;
+}
 #contacts5-19 p,
 #contacts5-19 .list-group-text,
 #contacts5-19 .form-control-label {
