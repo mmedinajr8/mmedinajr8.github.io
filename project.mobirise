@@ -45,7 +45,7 @@
           "_params": {
             "paddingTop": "7",
             "paddingBottom": "3",
-            "bgColor": "#efefef",
+            "bgColor": "#cccccc",
             "showMeta": true
           },
           "title": "Adobe Photoshop",
@@ -232,7 +232,7 @@
             "spacing": 1,
             "showText": false,
             "filter": false,
-            "bgColor": "#efefef",
+            "bgColor": "#cccccc",
             "filterBgColor": false,
             "fullWidth": false,
             "showBullets": true
@@ -409,7 +409,7 @@
           "_params": {
             "paddingTop": "7",
             "paddingBottom": "3",
-            "bgColor": "#efefef",
+            "bgColor": "#cccccc",
             "showMeta": true
           },
           "title": "Adobe Illustrator",
@@ -596,7 +596,7 @@
             "spacing": "1",
             "showText": false,
             "filter": false,
-            "bgColor": "#efefef",
+            "bgColor": "#cccccc",
             "filterBgColor": false,
             "fullWidth": false,
             "showBullets": true
@@ -2322,8 +2322,8 @@
             "showTitle": true,
             "showCaption": true
           },
-          "title": "BACKGROUND VIDEO",
-          "caption": "<p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools available today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</p>"
+          "title": "Miami",
+          "caption": "<p>The view of the Miami skyline from a rooftop on Ponce de Leon in Coral Gables.</p>"
         },
         {
           "_styles": {
@@ -2426,7 +2426,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/landscape3.jpg",
-            "bgColor": "#2e2e2e",
+            "bgColor": "#000000",
             "bgColorRadio": true,
             "overlay": false,
             "overlayOpacity": 0.5,
