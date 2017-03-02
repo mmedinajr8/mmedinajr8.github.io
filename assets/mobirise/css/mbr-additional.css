@@ -1051,3 +1051,93 @@ h6,
 #footer1-1h P {
   color: #000000;
 }
+#ext_menu-1m .hide-buttons .nav-btn {
+  display: none !important;
+}
+#ext_menu-1m .navbar-caption {
+  color: #ffffff;
+}
+#ext_menu-1m .navbar-toggler {
+  color: #000000;
+}
+#ext_menu-1m .close-icon::before,
+#ext_menu-1m .close-icon::after {
+  background-color: #000000;
+}
+#ext_menu-1m .link,
+#ext_menu-1m .dropdown-item {
+  color: #000000;
+}
+#ext_menu-1m .link {
+  font-size: 0.8rem;
+}
+#ext_menu-1m .dropdown-item,
+#ext_menu-1m .nav-dropdown-sm .link {
+  font-size: 0.866rem;
+}
+#ext_menu-1m .link:hover,
+#ext_menu-1m .dropdown-item:hover,
+#ext_menu-1m .link:focus,
+#ext_menu-1m .dropdown-item:focus {
+  color: #c0a375;
+}
+#ext_menu-1m .link[aria-expanded="true"],
+#ext_menu-1m .dropdown-menu {
+  background: #e6e6e6;
+}
+#ext_menu-1m .nav-dropdown-sm .link:focus,
+#ext_menu-1m .nav-dropdown-sm .link:hover,
+#ext_menu-1m .nav-dropdown-sm .dropdown-item:focus,
+#ext_menu-1m .nav-dropdown-sm .dropdown-item:hover {
+  background: #f7f7f7!important;
+}
+#ext_menu-1m .navbar,
+#ext_menu-1m .nav-dropdown-sm,
+#ext_menu-1m .nav-dropdown-sm .link[aria-expanded="true"],
+#ext_menu-1m .nav-dropdown-sm .dropdown-menu {
+  background: #ffffff;
+}
+#ext_menu-1m .bg-color.transparent .link {
+  color: #000000;
+  transition: none;
+}
+#ext_menu-1m .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#ext_menu-1m .bg-color.transparent.opened .link:hover,
+#ext_menu-1m .bg-color.transparent.opened .link:focus {
+  color: #c0a375;
+}
+#ext_menu-1m .link[aria-expanded="true"],
+#ext_menu-1m .dropdown-item[aria-expanded="true"] {
+  color: #c0a375!important;
+}
+#header3-1q .mbr-section-title,
+#header3-1q .mbr-section-subtitle {
+  text-align: center;
+}
+#contacts5-1n p,
+#contacts5-1n .list-group-text,
+#contacts5-1n .form-control-label {
+  color: #000;
+}
+#contacts5-1n strong,
+#contacts5-1n h4 {
+  color: #7e9b9f;
+}
+#contacts5-1n form .form-control {
+  border-color: rgba(0, 0, 0, 0.2);
+  color: #565656;
+}
+#contacts5-1n .mbr-footer-content li {
+  border-bottom: 1px dotted rgba(0, 0, 0, 0.1);
+}
+#contacts5-1n .mbr-company .list-group-text::after {
+  border-bottom: 1px dotted rgba(0, 0, 0, 0.2);
+}
+#contacts5-1n LI {
+  color: #c0a375;
+}
+#footer1-1o P {
+  color: #000000;
+}
