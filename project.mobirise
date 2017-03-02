@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "NewSite-01-21_1603",
-    "currentPage": "index.html",
+    "currentPage": "paintingreproduction.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -2711,7 +2711,7 @@
             "autoplay": true,
             "paddingTop": "1",
             "paddingBottom": "1",
-            "timeout": "6",
+            "timeout": "4",
             "slides": [
               {
                 "active": true,
