@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "NewSite-01-21_1603",
-    "currentPage": "photoshop.html",
+    "currentPage": "paintingreproduction.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -2699,7 +2699,7 @@
             "bgColor": "#c1c1c1",
             "showMeta": true
           },
-          "title": "Painting Reproduction",
+          "title": "Painting Reproduction<br>",
           "meta": ""
         },
         {
@@ -2711,10 +2711,10 @@
             "autoplay": true,
             "paddingTop": "1",
             "paddingBottom": "1",
-            "timeout": "4",
+            "timeout": "2",
             "slides": [
               {
-                "active": true,
+                "active": false,
                 "image": "@PROJECT_PATH@/assets/images/michael-medina-image-1-2000x1500.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
@@ -2728,7 +2728,7 @@
                 "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR MAC</a>"
               },
               {
-                "active": false,
+                "active": true,
                 "image": "@PROJECT_PATH@/assets/images/michael-medina-image-2-2000x1500.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
