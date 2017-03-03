@@ -1,6 +1,8 @@
 @import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
 @import url(https://fonts.googleapis.com/css?family=Lora:400,700);
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Indie+Flower);
 
 
 
@@ -949,6 +951,8 @@ h6,
 #footer1-1h P {
   color: #000000;
 }
+
+
 #ext_menu-18 .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -1015,6 +1019,10 @@ h6,
 }
 #header1-1e .mbr-section-lead {
   color: #ffffff;
+  font-family: 'Source Sans Pro', sans-serif;
+}
+#header1-1e .mbr-section-lead B {
+  font-family: 'Indie Flower', cursive;
 }
 #content8-1i .mbr-section-title,
 #content8-1i p {
