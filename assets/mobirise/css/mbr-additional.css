@@ -408,9 +408,9 @@ h6,
 .mbr-gallery-filter li:hover {
   color: #c0a375;
 }
-#header3-1f .mbr-section-title,
-#header3-1f .mbr-section-subtitle {
-  text-align: center;
+#msg-box8-1r .mbr-section-title,
+#msg-box8-1r p {
+  color: #fff;
 }
 #ext_menu-4 .hide-buttons .nav-btn {
   display: none !important;
@@ -498,9 +498,12 @@ h6,
 #footer1-1h P {
   color: #000000;
 }
-#header3-1g .mbr-section-title,
-#header3-1g .mbr-section-subtitle {
-  text-align: center;
+#msg-box8-1s .mbr-section-title,
+#msg-box8-1s p {
+  color: #fff;
+}
+#msg-box8-1s .lead {
+  color: #ffffff;
 }
 #ext_menu-7 .hide-buttons .nav-btn {
   display: none !important;
