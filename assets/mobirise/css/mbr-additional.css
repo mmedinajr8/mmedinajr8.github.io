@@ -826,6 +826,9 @@ h6,
 #ext_menu-o .dropdown-item[aria-expanded="true"] {
   color: #c0a375!important;
 }
+#footer1-1h P {
+  color: #000000;
+}
 #contacts5-14 p,
 #contacts5-14 .list-group-text,
 #contacts5-14 .form-control-label {
@@ -847,9 +850,6 @@ h6,
 }
 #contacts5-14 LI {
   color: #c0a375;
-}
-#footer1-1h P {
-  color: #000000;
 }
 #ext_menu-0 .hide-buttons .nav-btn {
   display: none !important;
