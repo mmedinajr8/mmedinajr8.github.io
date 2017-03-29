@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.11",
-    "uniqCompNum": 73,
+    "uniqCompNum": 74,
     "versionPublish": "3.11.1"
   },
   "pages": {
@@ -2283,6 +2283,11 @@
             "Theme"
           ],
           "_name": "msg-box4",
+          "_styles": {
+            "H3": {
+              "color": "#ffffff"
+            }
+          },
           "_anchor": "msg-box4-20",
           "_params": {
             "imageSize": 50,
@@ -2325,12 +2330,7 @@
           },
           "title": "&nbsp; &nbsp; Narration Video",
           "text": "<p>Online video and Youtube particularly is now more popular than cable television.</p>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
-          "_styles": {
-            "H3": {
-              "color": "#ffffff"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         },
         {
           "_styles": {
@@ -2416,31 +2416,24 @@
           "allItem": "All"
         },
         {
-          "_inherit": "social-buttons2",
           "_styles": {
-            ".mbr-section-title, .btn-social": {
-              "color": "#fff"
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
             }
           },
           "_tags": [
             "Theme"
           ],
-          "_name": "social-buttons4",
-          "_anchor": "social-buttons4-1l",
+          "_name": "header3",
+          "_anchor": "header3-21",
           "_params": {
-            "paddingTop": "2",
-            "paddingBottom": "2",
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/landscape3.jpg",
-            "bgColor": "#000000",
-            "bgColorRadio": true,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222"
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#ffffff",
+            "showMeta": true
           },
-          "text": "FOLLOW ME",
-          "icons": "   <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"https://www.youtube.com/channel/UCHWMBwbz-268m2DkL_9yDSA\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-youtube\"></i></a>       "
+          "title": "Youtube Channel",
+          "meta": "<p><a href=\"https://www.youtube.com/channel/UCHWMBwbz-268m2DkL_9yDSA\" target=\"_blank\">Channel</a></p>"
         },
         {
           "_inherit": "contacts3",
