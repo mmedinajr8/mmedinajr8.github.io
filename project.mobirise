@@ -1793,7 +1793,7 @@
             "paddingBottom": "3",
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/bio-2000x1125.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-10-2000x1333.jpg",
             "bgColor": "#fff",
             "bgColorRadio": false,
             "bgVideo": {
@@ -1862,7 +1862,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#7e9b9f",
+            "bgColor": "#efefef",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -2249,8 +2249,8 @@
               "googleLink": "https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,300,700"
             },
             ".mbr-section-lead B": {
-              "font-family": "'Indie Flower', cursive",
-              "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower"
+              "font-family": "'Source Sans Pro', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,300,700"
             }
           },
           "_anchor": "header1-1e",
@@ -2258,7 +2258,7 @@
             "parallax": true,
             "bgImageRadio": true,
             "showArrow": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mobirise-background-2000x1250.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1324.jpg",
             "bgColor": "#a07e49",
             "bgColorRadio": false,
             "bgVideo": {
@@ -2274,8 +2274,8 @@
             "showButtons": true
           },
           "title": "Michael Medina",
-          "text": "\"Live as if you were to die tomorrow. Learn as if you were to live tomorrow.\"<br>- Mahatma Ghandi",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"intro.html\" data-toolbar=\"-mbrBtnMove\">Introduction</a> "
+          "text": "<b>\"Live as if you were to die tomorrow. Learn as if you were to live tomorrow.\"<br>- Mahatma Ghandi</b>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"intro.html\" data-toolbar=\"-mbrBtnMove\">Introduction</a> "
         },
         {
           "_inherit": "msg-box8",
@@ -2311,15 +2311,15 @@
             },
             "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#efefef",
+            "overlayOpacity": "0.2",
+            "overlayColor": "#ffffff",
             "showTitle": true,
             "showText": true,
             "showButton": true
           },
           "title": "My Story",
           "text": "My story can be portrayed in many ways. One is in writing format where I <i>explain</i> to you who I am. And the other is a video where I <i>show</i> you who I am.",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"intro.html\" data-toolbar=\"-mbrBtnMove\">BIOGRAPHY</a> <a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://youtu.be/zd1bH_-uKWw\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">INTRO VIDEO</a>"
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\"intro.html\" data-toolbar=\"-mbrBtnMove\">BIOGRAPHY</a> <a data-app-btn=\"true\" class=\"btn btn-white\" href=\"https://youtu.be/zd1bH_-uKWw\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">INTRO VIDEO</a>"
         },
         {
           "_styles": {

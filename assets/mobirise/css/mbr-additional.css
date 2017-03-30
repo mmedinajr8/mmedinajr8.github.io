@@ -2,7 +2,6 @@
 @import url(https://fonts.googleapis.com/css?family=Lora:400,700);
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,300,700);
-@import url(https://fonts.googleapis.com/css?family=Indie+Flower);
 
 
 
@@ -1022,7 +1021,7 @@ h6,
   font-family: 'Source Sans Pro', sans-serif;
 }
 #header1-1e .mbr-section-lead B {
-  font-family: 'Indie Flower', cursive;
+  font-family: 'Source Sans Pro', sans-serif;
 }
 #msg-box3-29 .mbr-section-title,
 #msg-box3-29 p {
