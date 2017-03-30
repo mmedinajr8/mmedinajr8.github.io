@@ -1024,6 +1024,19 @@ h6,
 #header1-1e .mbr-section-lead B {
   font-family: 'Indie Flower', cursive;
 }
+#msg-box3-29 .mbr-section-title,
+#msg-box3-29 p {
+  color: #000;
+}
+#msg-box3-29 .mbr-section-title {
+  color: #ffffff;
+}
+#msg-box3-29 .lead P {
+  color: #ffffff;
+}
+#msg-box3-29 .lead {
+  color: #ffffff;
+}
 #header3-1j .mbr-section-title,
 #header3-1j .mbr-section-subtitle {
   text-align: center;
