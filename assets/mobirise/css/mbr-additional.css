@@ -1155,3 +1155,181 @@ h6,
 #footer1-1o P {
   color: #000000;
 }
+#ext_menu-2a .hide-buttons .nav-btn {
+  display: none !important;
+}
+#ext_menu-2a .navbar-caption {
+  color: #ffffff;
+}
+#ext_menu-2a .navbar-toggler {
+  color: #000000;
+}
+#ext_menu-2a .close-icon::before,
+#ext_menu-2a .close-icon::after {
+  background-color: #000000;
+}
+#ext_menu-2a .link,
+#ext_menu-2a .dropdown-item {
+  color: #000000;
+}
+#ext_menu-2a .link {
+  font-size: 0.8rem;
+}
+#ext_menu-2a .dropdown-item,
+#ext_menu-2a .nav-dropdown-sm .link {
+  font-size: 0.866rem;
+}
+#ext_menu-2a .link:hover,
+#ext_menu-2a .dropdown-item:hover,
+#ext_menu-2a .link:focus,
+#ext_menu-2a .dropdown-item:focus {
+  color: #c0a375;
+}
+#ext_menu-2a .link[aria-expanded="true"],
+#ext_menu-2a .dropdown-menu {
+  background: #e6e6e6;
+}
+#ext_menu-2a .nav-dropdown-sm .link:focus,
+#ext_menu-2a .nav-dropdown-sm .link:hover,
+#ext_menu-2a .nav-dropdown-sm .dropdown-item:focus,
+#ext_menu-2a .nav-dropdown-sm .dropdown-item:hover {
+  background: #f7f7f7!important;
+}
+#ext_menu-2a .navbar,
+#ext_menu-2a .nav-dropdown-sm,
+#ext_menu-2a .nav-dropdown-sm .link[aria-expanded="true"],
+#ext_menu-2a .nav-dropdown-sm .dropdown-menu {
+  background: #ffffff;
+}
+#ext_menu-2a .bg-color.transparent .link {
+  color: #000000;
+  transition: none;
+}
+#ext_menu-2a .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#ext_menu-2a .bg-color.transparent.opened .link:hover,
+#ext_menu-2a .bg-color.transparent.opened .link:focus {
+  color: #c0a375;
+}
+#ext_menu-2a .link[aria-expanded="true"],
+#ext_menu-2a .dropdown-item[aria-expanded="true"] {
+  color: #c0a375!important;
+}
+#header6-2e .mbr-section-title {
+  color: #28262b;
+}
+#header6-2e .mbr-section-text {
+  color: #565656;
+}
+#contacts5-2b p,
+#contacts5-2b .list-group-text,
+#contacts5-2b .form-control-label {
+  color: #000;
+}
+#contacts5-2b strong,
+#contacts5-2b h4 {
+  color: #7e9b9f;
+}
+#contacts5-2b form .form-control {
+  border-color: rgba(0, 0, 0, 0.2);
+  color: #565656;
+}
+#contacts5-2b .mbr-footer-content li {
+  border-bottom: 1px dotted rgba(0, 0, 0, 0.1);
+}
+#contacts5-2b .mbr-company .list-group-text::after {
+  border-bottom: 1px dotted rgba(0, 0, 0, 0.2);
+}
+#contacts5-2b LI {
+  color: #c0a375;
+}
+#footer1-2c P {
+  color: #000000;
+}
+#ext_menu-2f .hide-buttons .nav-btn {
+  display: none !important;
+}
+#ext_menu-2f .navbar-caption {
+  color: #ffffff;
+}
+#ext_menu-2f .navbar-toggler {
+  color: #000000;
+}
+#ext_menu-2f .close-icon::before,
+#ext_menu-2f .close-icon::after {
+  background-color: #000000;
+}
+#ext_menu-2f .link,
+#ext_menu-2f .dropdown-item {
+  color: #000000;
+}
+#ext_menu-2f .link {
+  font-size: 0.8rem;
+}
+#ext_menu-2f .dropdown-item,
+#ext_menu-2f .nav-dropdown-sm .link {
+  font-size: 0.866rem;
+}
+#ext_menu-2f .link:hover,
+#ext_menu-2f .dropdown-item:hover,
+#ext_menu-2f .link:focus,
+#ext_menu-2f .dropdown-item:focus {
+  color: #c0a375;
+}
+#ext_menu-2f .link[aria-expanded="true"],
+#ext_menu-2f .dropdown-menu {
+  background: #e6e6e6;
+}
+#ext_menu-2f .nav-dropdown-sm .link:focus,
+#ext_menu-2f .nav-dropdown-sm .link:hover,
+#ext_menu-2f .nav-dropdown-sm .dropdown-item:focus,
+#ext_menu-2f .nav-dropdown-sm .dropdown-item:hover {
+  background: #f7f7f7!important;
+}
+#ext_menu-2f .navbar,
+#ext_menu-2f .nav-dropdown-sm,
+#ext_menu-2f .nav-dropdown-sm .link[aria-expanded="true"],
+#ext_menu-2f .nav-dropdown-sm .dropdown-menu {
+  background: #ffffff;
+}
+#ext_menu-2f .bg-color.transparent .link {
+  color: #000000;
+  transition: none;
+}
+#ext_menu-2f .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#ext_menu-2f .bg-color.transparent.opened .link:hover,
+#ext_menu-2f .bg-color.transparent.opened .link:focus {
+  color: #c0a375;
+}
+#ext_menu-2f .link[aria-expanded="true"],
+#ext_menu-2f .dropdown-item[aria-expanded="true"] {
+  color: #c0a375!important;
+}
+#contacts5-2g p,
+#contacts5-2g .list-group-text,
+#contacts5-2g .form-control-label {
+  color: #000;
+}
+#contacts5-2g strong,
+#contacts5-2g h4 {
+  color: #7e9b9f;
+}
+#contacts5-2g form .form-control {
+  border-color: rgba(0, 0, 0, 0.2);
+  color: #565656;
+}
+#contacts5-2g .mbr-footer-content li {
+  border-bottom: 1px dotted rgba(0, 0, 0, 0.1);
+}
+#contacts5-2g .mbr-company .list-group-text::after {
+  border-bottom: 1px dotted rgba(0, 0, 0, 0.2);
+}
+#contacts5-2g LI {
+  color: #c0a375;
+}
+#footer1-2h P {
+  color: #000000;
+}
