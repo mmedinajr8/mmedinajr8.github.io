@@ -1419,3 +1419,89 @@ h6,
 #footer1-2l P {
   color: #000000;
 }
+#ext_menu-2n .hide-buttons .nav-btn {
+  display: none !important;
+}
+#ext_menu-2n .navbar-caption {
+  color: #ffffff;
+}
+#ext_menu-2n .navbar-toggler {
+  color: #000000;
+}
+#ext_menu-2n .close-icon::before,
+#ext_menu-2n .close-icon::after {
+  background-color: #000000;
+}
+#ext_menu-2n .link,
+#ext_menu-2n .dropdown-item {
+  color: #000000;
+}
+#ext_menu-2n .link {
+  font-size: 0.8rem;
+}
+#ext_menu-2n .dropdown-item,
+#ext_menu-2n .nav-dropdown-sm .link {
+  font-size: 0.866rem;
+}
+#ext_menu-2n .link:hover,
+#ext_menu-2n .dropdown-item:hover,
+#ext_menu-2n .link:focus,
+#ext_menu-2n .dropdown-item:focus {
+  color: #c0a375;
+}
+#ext_menu-2n .link[aria-expanded="true"],
+#ext_menu-2n .dropdown-menu {
+  background: #e6e6e6;
+}
+#ext_menu-2n .nav-dropdown-sm .link:focus,
+#ext_menu-2n .nav-dropdown-sm .link:hover,
+#ext_menu-2n .nav-dropdown-sm .dropdown-item:focus,
+#ext_menu-2n .nav-dropdown-sm .dropdown-item:hover {
+  background: #f7f7f7!important;
+}
+#ext_menu-2n .navbar,
+#ext_menu-2n .nav-dropdown-sm,
+#ext_menu-2n .nav-dropdown-sm .link[aria-expanded="true"],
+#ext_menu-2n .nav-dropdown-sm .dropdown-menu {
+  background: #ffffff;
+}
+#ext_menu-2n .bg-color.transparent .link {
+  color: #000000;
+  transition: none;
+}
+#ext_menu-2n .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#ext_menu-2n .bg-color.transparent.opened .link:hover,
+#ext_menu-2n .bg-color.transparent.opened .link:focus {
+  color: #c0a375;
+}
+#ext_menu-2n .link[aria-expanded="true"],
+#ext_menu-2n .dropdown-item[aria-expanded="true"] {
+  color: #c0a375!important;
+}
+#contacts5-2o p,
+#contacts5-2o .list-group-text,
+#contacts5-2o .form-control-label {
+  color: #000;
+}
+#contacts5-2o strong,
+#contacts5-2o h4 {
+  color: #7e9b9f;
+}
+#contacts5-2o form .form-control {
+  border-color: rgba(0, 0, 0, 0.2);
+  color: #565656;
+}
+#contacts5-2o .mbr-footer-content li {
+  border-bottom: 1px dotted rgba(0, 0, 0, 0.1);
+}
+#contacts5-2o .mbr-company .list-group-text::after {
+  border-bottom: 1px dotted rgba(0, 0, 0, 0.2);
+}
+#contacts5-2o LI {
+  color: #c0a375;
+}
+#footer1-2p P {
+  color: #000000;
+}
